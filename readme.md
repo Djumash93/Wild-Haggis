@@ -1,1 +1,1 @@
-An app for hotel bookings. work in progress
+An app for hotel bookings in the Scottish highlands. work in progress
