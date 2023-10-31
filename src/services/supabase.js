@@ -1,6 +1,8 @@
 import { createClient } from "@supabase/supabase-js";
 
-const supabaseUrl = "https://quwweramyrbpukyinyuy.supabase.co";
+//https://quwweramyrbpukyinyuy.supabase.co/storage/v1/object/public/cabin-images/cabin-002.jpg
+
+export const supabaseUrl = "https://quwweramyrbpukyinyuy.supabase.co";
 
 //Row level security enabled, therefore key can be exposed
 const supabaseKey =
