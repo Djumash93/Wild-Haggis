@@ -28,7 +28,7 @@ const StyledNavLink = styled(NavLink)`
     transition: all 0.3s;
   }
 
-  /* Reminder- react-router places the active class on the active NavLink */
+  /* react-router places the active class on the active NavLink */
   &:hover,
   &:active,
   &.active:link,
