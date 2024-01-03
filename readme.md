@@ -3,3 +3,5 @@ A single page application for hotel bookings in the Scottish highlands. This app
 The techstack used to build this app - Javascript, React, Vite, Supabase (RLS policies, Storage buckets, Authorisation, logout), CSS, styled components (dark mode feature), Routes, React Query, Recharts, React-hook-form, Context API, techniques such as Compound Components.
 
 Continuous CI/CD live server for the app -  https://wild-haggis.vercel.app/
+
+example password - 123456
